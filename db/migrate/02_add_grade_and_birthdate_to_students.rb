@@ -1,2 +1,2 @@
-class AddGradeAndBirthdayToStudents
+class AddGradeAndBirthdayToStudents < ActiveRecord::Migration
 end
